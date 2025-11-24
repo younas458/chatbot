@@ -1,2 +1,2 @@
 # chatbot
-chatbot in html css ana javasript
+chatbot in html css and javasript
